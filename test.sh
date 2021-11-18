@@ -9,4 +9,6 @@ sum=$(( $a + $b ))
  
 echo "Sum is: $sum"
 
+echo "we are testing the jenkins services on mac"
+
 
